@@ -10,6 +10,7 @@ Run Pose Estimation on Image
 python posenet_tflite.py
 ```
 
-Result 
+OUTPUT
+-------------------
 
 ![Result](result.png)
