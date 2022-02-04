@@ -13,4 +13,4 @@ python posenet_tflite.py
 OUTPUT
 -------------------
 
-![Result](result.png)
+![Result](result.png) 
